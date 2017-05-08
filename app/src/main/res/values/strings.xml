@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Jigsaw Puzzle</string>
+    <string name="action_start">start</string>
+    <string name="title_activity_puzzel">PuzzelActivity</string>
+</resources>
